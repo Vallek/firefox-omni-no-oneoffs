@@ -4,7 +4,7 @@ Disables search engines buttons (aka one offs) from Firefox urlbar (aka omnibar)
 **How to**: replace omni.ja file in your \Mozilla Firefox\browser folder with this copy.
 
 **If you want to edit it yourself**: 
-1. Open omni.ja as folder (I use Total Commander for that)
+1. Copy omni.ja in another folder outside Firefox and open it as an archive (I use Total Commander for that)
 2. Find modules\UrlbarSearchOneOffs.jsm
 3. Open it (I use Notepad++, vs code didn't save properly inside archive). DO NOT TOUCH POPUP.
 4. Find 
