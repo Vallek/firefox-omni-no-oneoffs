@@ -10,4 +10,5 @@ upd1: This fix started to cause troubles with urlbar in version 85.
 upd2: Fixed it for version 91!
 
 upd3: They broke it some time ago. It now breaks the browser! I'm looking into it.
+
 upd4: Fixed it for version 102!
