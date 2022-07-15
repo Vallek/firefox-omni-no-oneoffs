@@ -8,3 +8,5 @@ Original post if you want to edit code yourself: [https://www.reddit.com/r/firef
 upd1: This fix started to cause troubles with urlbar in version 85. 
 
 upd2: Fixed it for version 91!
+
+upd3: They broke it some time ago by removing file inside omni.ja. It now breaks the browser! I'm looking into it.
